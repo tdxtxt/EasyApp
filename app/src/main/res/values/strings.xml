@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EasyApp</string>
+    <style name="BottomMenuText">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#444444</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/menu_item_bg_selector</item>
+    </style>
+
+</resources>
